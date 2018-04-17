@@ -16,3 +16,18 @@ Step3/ Cheak the time
   After 6:00pm to 5:00am
   Yes = Write down "Good evening"
   No = back to the Step1
+
+--------------------------------------- Create new one
+a = Good morning;
+b = Good afternoon;
+c = Good evening;
+time = now
+
+New Step1/ time < noon &&(and, Can't put"or") time >= 5:00am
+  input a
+  
+New Step2/ time > after noon && time < 6:00pm
+  input b
+  
+New Step3/ time >= 6:00pm && time < 5:00am
+  input c
