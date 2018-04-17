@@ -1,3 +1,9 @@
 number1, it will be the first number.
 number2, this will be the second number, userwill enter.
 sum, this is summation of twonumbers. I will make simple calculation.
+
+Check the numbers if they are integers
+Yes. Make the calculation.
+     Add the numbers anthe following way.
+     Sum=number1+number2.
+No. Say to user "This is not number".
