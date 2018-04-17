@@ -1,0 +1,12 @@
+number;
+sum;
+counter;
+
+Step1 / Input the number
+  Cheak the correct number
+  Yes:   
+  No:
+
+If counter is equal to 100
+  Print Sum.
+ 
