@@ -1,0 +1,18 @@
+Good morning;
+Good afternoon;
+Good evening;
+
+Step1/ Check the time
+  Before noon
+  Yes = Write down "Good morning" 
+  No = go to Step2
+  
+Step2/ Cheak the time 
+  Between after noon and until 6:00pm
+  Yes = Write down "Good after noon"
+  No = go to Step3
+  
+Step3/ Cheak the time
+  After 6:00pm to 5:00am
+  Yes = Write down "Good evening"
+  No = back to the Step1
