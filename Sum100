@@ -1,0 +1,12 @@
+x = first number;
+y = secound number;
+z = third number;
+sum = x multiplied by y multiplied by z;
+
+check the x,y,z; if it is an integer && one digit
+  yes. make the calculation
+  no. show the commond "Please input the integer and one digit each number"
+
+sum = 100
+  yes. print sum
+  no. show the command "Try again"
