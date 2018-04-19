@@ -1,0 +1,17 @@
+reminder = number / divinsor;
+even number = reminder is 0
+
+if ( number < 2 ) 
+  it is not prime number, number +=1, process again
+
+else
+  if ( number = even number other than 2 )
+    it is not prime number, number +-1, process again
+  
+  else
+    if ( reminder  ) 
+    
+    
+  else
+    process again
+
