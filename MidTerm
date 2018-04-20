@@ -1,30 +1,44 @@
-1
+1 finish
 number
 
-start ( last number )
-  print number
+start ( last number input top number )  
   process again
+  
+no more number
+print number
   
 -------------------------------------------------------------------
 2
 
 -------------------------------------------------------------------
-3
+3 middle
 
-
+h = 
+r = 
 
 all area = ( m_pi * r * r ) * 2 + ( 2 * pi * r * h )
   print all area
   
- 
-円周率　m_pi
-パイ　pi
+memo:
+area = 2 m_pi r h + 2 p 
 
 -------------------------------------------------------------------
 4
+number = binary last number * 2^0
+  binary last number: disappear after calculation
+  sum = number  
+  
+n = 0+1
 
-b d
+"a"
+number = binary last number * 2^n
+  sum = sum + number
+  n = increase + 1
+  
+  process again to "a"
 
-binary = 0 or 1
-decimal = 0,1,2,4,5,6,7,8,9
-
+memo:
+20 = 2^0
+21 = 2^(0+1)
+22 = 2^(0+2) = 2^(0+1+1)
+23 = 2^(0+3)
