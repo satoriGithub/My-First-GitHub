@@ -12,10 +12,13 @@ start ( last number )
 3
 
 
-all area = ( m_pi *  ) *2 + (  )
+
+all area = ( m_pi * r * r ) * 2 + ( 2 * pi * r * h )
   print all area
   
-M_PI = pi
+ 
+円周率　m_pi
+パイ　pi
 
 -------------------------------------------------------------------
 4
