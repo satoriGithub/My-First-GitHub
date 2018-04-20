@@ -1,17 +1,22 @@
-1 finish
-number
+1
+last number = last og all numbers
 
 start ( last number input top number )  
   process again
   
-no more number
-print number
-  
 -------------------------------------------------------------------
 2
+7
+ 2 3 4 5 6 r=1
+ 
+reminder = number % divisor
+
+if ( number =   )
+
+
 
 -------------------------------------------------------------------
-3 middle
+3
 
 h = 
 r = 
@@ -24,11 +29,14 @@ area = 2 m_pi r h + 2 p
 
 -------------------------------------------------------------------
 4
+number
+binary last number
+sum
+n = 0+1
+
 number = binary last number * 2^0
   binary last number: disappear after calculation
   sum = number  
-  
-n = 0+1
 
 "a"
 number = binary last number * 2^n
