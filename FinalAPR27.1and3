@@ -1,0 +1,48 @@
+  //1.Create an algorithm to get a series of numbers and by pressing 0 calculate the average of those numbers,
+  //then print the maximum, the minimum and the average number
+  //1.一連の数値を取得するためのアルゴリズムを作成し、0を押してそれらの数値の平均を計算し、
+  //最大値、最小値、平均値を出力します。
+  // 52, 25, 10, 0 = average　52+25+10/3=29
+
+
+var x;        //number;
+var y;        //total;
+var i;        // counter;
+var sum;      // average;
+
+x = number;   //input number
+y = 0;
+i = 0;
+sum = 0;
+
+while ( x == 0 ){
+    i = i+1;
+    y = y+x;
+    sum = y/i;
+}
+console.log(sum);
+
+
+
+  //3.Create a simple VB, C or JavaScript program that calculates the factorial of a given number.
+  //3.与えられた数の階乗を計算する単純なVB、CまたはJavaScriptプログラムを作成します。
+  //I choose JavaScript
+
+
+var x; // number;
+var i; // counter;
+var sum;
+
+x = number; //input number
+i = x*1
+
+while ( i == 0 ){
+    sum *= i;
+    i = i-1;
+}
+console.log(sum);
+
+
+  //x=5  i=5*1  sum=5
+  //i=4  sum=5*4
+  //i=3  sum=5*4*3
