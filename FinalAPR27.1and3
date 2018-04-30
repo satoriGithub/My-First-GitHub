@@ -46,3 +46,9 @@ console.log(sum);
   //x=5  i=5*1  sum=5
   //i=4  sum=5*4
   //i=3  sum=5*4*3
+
+
+  //4.
+  //answer is just write down "number = n+(n+1)/2" and just make 4 circle that's it.
+
+
